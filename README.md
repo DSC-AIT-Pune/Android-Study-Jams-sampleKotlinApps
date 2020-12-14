@@ -1,30 +1,25 @@
-Android Fundamentals in Kotlin Solution Apps
+Android Study Jams Sample Apps For Practice
 ===========================================
 
-This repository contains the solution code for the apps for the
-Android Fundamentals in Kotlin course, published by the Google Developer Training Team.
+This repository contains the source code for the sample apps in Kotlin , published by the Google Developer Training Team. These apps are also built in codelabs.
 See [Android Training](https://developer.android.com/courses).
 
-A “solution app” is an app that contains the code for a completed codelab.
 
-Code for the starter apps in this course are in a different repository.
 
 Introduction
 ------------
 
-Each of the samples in this repository is associated with a codelab exercise
-from the Android Fundamentals in Kotlin course.
+- New to Programming Track- https://developer.android.com/courses/android-basics-kotlin/course
+- Prior Programming Experience Track - https://developer.android.com/courses/kotlin-fundamentals/course 
 
-The Android Fundamentals in Kotlin course can be used for self-study, or as the 
-basis of an instructor-led training. It is targeted towards beginning Android 
-developers with a background in software development or computer science with 
-at least two years of experience with a modern, object-oriented programming
-language, such as the Java programming language,
-and familiarity with basic software architecture principles. 
-
-Since this course is in Kotlin, it is assumed you know Kotlin at the level 
-taught in the Udacity course, 
-[Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011).
+Practice Kotlin :
+- Kotlin Playground - https://play.kotlinlang.org/ 
+- Kotlin Koans - https://play.kotlinlang.org/koans/overview 
+Documentation
+●Official Android Developers Site: developer.android.com
+●Learn Kotlin By Example
+●Kotlin Vocabulary series
+●Subscribe to the Android Developer Newsletter
 
 
 Pre-requisites
