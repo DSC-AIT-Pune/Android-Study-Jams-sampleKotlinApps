@@ -15,11 +15,12 @@ Introduction
 Practice Kotlin :
 - Kotlin Playground - https://play.kotlinlang.org/ 
 - Kotlin Koans - https://play.kotlinlang.org/koans/overview 
+
 Documentation
-- ●Official Android Developers Site: developer.android.com
-- ●Learn Kotlin By Example
-- ●Kotlin Vocabulary series
-- ●Subscribe to the Android Developer Newsletter
+- Official Android Developers Site: developer.android.com
+- Learn Kotlin By Example
+- Kotlin Vocabulary series
+- Subscribe to the Android Developer Newsletter
 
 
 Pre-requisites
