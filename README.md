@@ -136,9 +136,9 @@ Codelabs for each sample app
 
 <br>
 
-> #### DiceRoller -- [Android Kotlin Fundamentals: Create an interactive Dice Roller app](https://developers.google.com/codelabs/kotlin-android-training-app-anatomy)
+> #### DiceRoller -- [Android Kotlin Fundamentals: Create an interactive Dice Roller app](https://developer.android.com/codelabs/basic-android-kotlin-training-create-dice-roller-app-with-button)
 
-> #### DiceRollerFinal -- [Android Kotlin Fundamentals: 01.2 Basic app anatomy](https://developer.android.com/codelabs/basic-android-kotlin-training-create-dice-roller-app-with-button)
+> #### DiceRollerFinal -- [Android Kotlin Fundamentals: 01.2 Basic app anatomy](https://developers.google.com/codelabs/kotlin-android-training-app-anatomy)
 
 > #### DiceRollerFinal-challenge -- [Android Kotlin Fundamentals: 01.3 Image resources and compatibility](https://developer.android.com/codelabs/kotlin-android-training-images-compat)
 
