@@ -136,7 +136,8 @@ Codelabs for each sample app
 
 <br>
 
-> #### DiceRoller -- [Android Kotlin Fundamentals: Create an interactive Dice Roller app](https://developer.android.com/codelabs/basic-android-kotlin-training-create-dice-roller-app-with-button)
+### Lesson 1: Build your first app
+> #### DiceRoller -- [Android Kotlin Fundamentals: 01.1 Create an interactive Dice Roller app](https://developer.android.com/codelabs/basic-android-kotlin-training-create-dice-roller-app-with-button)
 
 > #### DiceRollerFinal -- [Android Kotlin Fundamentals: 01.2 Basic app anatomy](https://developers.google.com/codelabs/kotlin-android-training-app-anatomy)
 
@@ -144,16 +145,22 @@ Codelabs for each sample app
 
 <br>
 
-> #### AboutMe -- [Android Kotlin Fundamentals: LinearLayout using the Layout Editor](https://developer.android.com/codelabs/kotlin-android-training-linear-layout#0)
+### Lesson 2: Layouts
 
-> #### ColorMyViews -- [Android Kotlin Fundamentals:02.3 ConstraintLayout using the Layout Editor](https://developer.android.com/codelabs/kotlin-android-training-constraint-layout#0)
+> #### AboutMe -- [Android Kotlin Fundamentals: 02.1 LinearLayout using the Layout Editor](https://developer.android.com/codelabs/kotlin-android-training-linear-layout#0)
 
-> #### AboutMeDataBinding -- [Android Kotlin Fundamentals 02.4: Data binding basics](https://developer.android.com/codelabs/kotlin-android-training-data-binding-basics#0)
+> #### AboutMeInteractive -- [Android Kotlin Fundamentals: 02.2 Add user interactivity](https://developer.android.com/codelabs/kotlin-android-training-interactivity)
 
-> #### AboutMeInteractive -- [Android Kotlin Fundamentals: Add user interactivity](https://developer.android.com/codelabs/kotlin-android-training-interactivity)
+> #### ColorMyViews -- [Android Kotlin Fundamentals: 02.3 ConstraintLayout using the Layout Editor](https://developer.android.com/codelabs/kotlin-android-training-constraint-layout#0)
+
+> #### AboutMeDataBinding -- [Android Kotlin Fundamentals: 02.4 Data binding basics](https://developer.android.com/codelabs/kotlin-android-training-data-binding-basics#0)
+
+
 
 <br>
 
+
+### Lesson 3: Navigation
 > #### AndroidTriviaFragment -- [Android Kotlin Fundamentals: 03.1 Create a fragment](https://developer.android.com/codelabs/kotlin-android-training-create-and-add-fragment#0)
 
 > #### AndroidTriviaNavigation -- [Android Kotlin Fundamentals: 03.2 Define navigation paths](https://developer.android.com/codelabs/kotlin-android-training-add-navigation)
@@ -162,62 +169,72 @@ Codelabs for each sample app
 
 <br>
 
-> #### DessertClickerFinal -- [Android Kotlin Fundamentals: Complex Lifecycle Situations](https://developer.android.com/codelabs/kotlin-android-training-complex-lifecycle#0)
+### Lesson 4: Activity and fragment lifecycles
+> #### DessertClickerLogs -- [Android Kotlin Fundamentals: 04.1 Lifecycles and logging](https://developer.android.com/codelabs/kotlin-android-training-lifecycles-logging#0)
 
-> #### DessertClickerLogs -- [Android Kotlin Fundamentals: Lifecycles and logging](https://developer.android.com/codelabs/kotlin-android-training-lifecycles-logging#0)
-
-<br>
-
-> #### DevBytesRepository -- [Android Kotlin Fundamentals: Repository](https://developer.android.com/codelabs/kotlin-android-training-repository#0)
-
-> #### DevBytesWorkManager -- [Android Kotlin Fundamentals: WorkManager](https://developer.android.com/codelabs/kotlin-android-training-work-manager)
+> #### DessertClickerFinal -- [Android Kotlin Fundamentals: 04.2 Complex Lifecycle Situations](https://developer.android.com/codelabs/kotlin-android-training-complex-lifecycle#0)
 
 <br>
 
+### Lesson 5: Architecture components
+> #### GuessTheWordDataBinding -- [Android Kotlin Fundamentals: 05.1 Data binding with ViewModel and LiveData](https://developer.android.com/codelabs/kotlin-android-training-live-data-data-binding#0)
 
-> #### GuessTheWordDataBinding -- [Android Kotlin Fundamentals: Data binding with ViewModel and LiveData](https://developer.android.com/codelabs/kotlin-android-training-live-data-data-binding#0)
+> #### GuessTheWordLiveData -- [Android Kotlin Fundamentals: 05.2 LiveData and LiveData observers](https://developer.android.com/codelabs/kotlin-android-training-live-data)
 
-> #### GuessTheWordLiveData -- [Android Kotlin Fundamentals: LiveData and LiveData observers](https://developer.android.com/codelabs/kotlin-android-training-live-data)
+> #### GuessTheWordLiveData -- [Android Kotlin Fundamentals: 05.3 ViewModel](https://developer.android.com/codelabs/kotlin-android-training-view-model#0)
 
-> #### GuessTheWordLiveData -- [Android Kotlin Fundamentals: ViewModel](https://developer.android.com/codelabs/kotlin-android-training-view-model#0)
-
-<br>
-
-> #### MarsRealEstateFinal -- [Android Kotlin Fundamentals: Filtering and detail views with internet data](https://developer.android.com/codelabs/kotlin-android-training-internet-filtering)
-
-> #### MarsRealEstateGrid -- [Android Kotlin Fundamentals: Filtering and detail views with internet data](https://developer.android.com/codelabs/kotlin-android-training-internet-filtering#0)
-
-> #### MarsRealEstateNetwork -- [Android Kotlin Fundamentals: Loading and displaying images from the internet](https://developer.android.com/codelabs/kotlin-android-training-internet-images)
+> #### GuessTheWordTransformation -- [Android Kotlin Fundamentals: 5.4 LiveData transformations](https://developer.android.com/codelabs/kotlin-android-training-live-data-transformations)
 
 <br>
 
-> #### RecyclerViewClickHandler -- [Android Kotlin Fundamentals: Interacting with RecyclerView items](https://developer.android.com/codelabs/kotlin-android-training-interacting-with-items#0)
+### Lesson 6: Room database and coroutines
+> #### TrackMySleepQualityRoomAndTesting -- [Android Kotlin Fundamentals: 06.1 Create a Room Database](https://developer.android.com/codelabs/kotlin-android-training-room-database#0)
 
-> #### RecyclerViewDiffUtilDataBinding-- [Android Kotlin Fundamentals: DiffUtil and data binding with RecyclerView](https://developer.android.com/codelabs/kotlin-android-training-diffutil-databinding#0)
+> #### TrackMySleepQualityCoroutines -- [Android Kotlin Fundamentals: 06.2 Coroutines and Room](https://developer.android.com/codelabs/kotlin-android-training-coroutines-and-room?hl=ru#0)
 
-> #### RecyclerViewFundamentals -- [Android Kotlin Fundamentals: RecyclerView fundamentals](https://developer.android.com/codelabs/kotlin-android-training-recyclerview-fundamentals#0)
+> #### TrackMySleepQualityFinal -- [Android Kotlin Fundamentals: 06.3 Use LiveData to control button states](https://developer.android.com/codelabs/kotlin-android-training-quality-and-states?hl=de#0)
 
-> #### RecyclerViewGridLayout -- [Android Kotlin Fundamentals: GridLayout with RecyclerView](https://developer.android.com/codelabs/kotlin-android-training-grid-layout#0)
 
->  #### RecyclerViewHeaders -- [Android Kotlin Fundamentals: Headers in RecyclerView](https://developer.android.com/codelabs/kotlin-android-training-headers#0)
 
 <br>
 
 
+### Lesson 7: RecyclerView
+> #### RecyclerViewFundamentals -- [Android Kotlin Fundamentals: 07.1 RecyclerView fundamentals](https://developer.android.com/codelabs/kotlin-android-training-recyclerview-fundamentals#0)
 
-> #### TrackMySleepQualityCoroutines -- [Android Kotlin Fundamentals: 6.2 Coroutines and Room](https://developer.android.com/codelabs/kotlin-android-training-coroutines-and-room?hl=ru#0)
+> #### RecyclerViewDiffUtilDataBinding-- [Android Kotlin Fundamentals: 07.2 DiffUtil and data binding with RecyclerView](https://developer.android.com/codelabs/kotlin-android-training-diffutil-databinding#0)
 
-> #### TrackMySleepQualityFinal -- [Android Kotlin Fundamentals: Use LiveData to control button states](https://developer.android.com/codelabs/kotlin-android-training-quality-and-states?hl=de#0)
+> #### RecyclerViewGridLayout -- [Android Kotlin Fundamentals: 07.3 GridLayout with RecyclerView](https://developer.android.com/codelabs/kotlin-android-training-grid-layout#0)
 
-> #### TrackMySleepQualityRoomAndTesting -- [Android Kotlin Fundamentals: Create a Room Database](https://developer.android.com/codelabs/kotlin-android-training-room-database#0)
+> #### RecyclerViewClickHandler -- [Android Kotlin Fundamentals: 07.4 Interacting with RecyclerView items](https://developer.android.com/codelabs/kotlin-android-training-interacting-with-items#0)
+
+>  #### RecyclerViewHeaders -- [Android Kotlin Fundamentals: 07.5 Headers in RecyclerView](https://developer.android.com/codelabs/kotlin-android-training-headers#0)
 
 <br>
+
+
+### Lesson 8: Connecting to the internet
+> #### MarsRealEstateNetwork -- [Android Kotlin Fundamentals: 08.1 & 08.2 Loading and displaying images from the internet](https://developer.android.com/codelabs/kotlin-android-training-internet-images)
+
+> #### MarsRealEstateFinal -- [Android Kotlin Fundamentals: 08.3 Filtering and detail views with internet data](https://developer.android.com/codelabs/kotlin-android-training-internet-filtering)
+
+
+
+<br>
+
+### Lesson 9: Repository
+> #### DevBytesRepository -- [Android Kotlin Fundamentals: 09.1 Repository](https://developer.android.com/codelabs/kotlin-android-training-repository#0)
+
+> #### DevBytesWorkManager -- [Android Kotlin Fundamentals: 09.2 WorkManager](https://developer.android.com/codelabs/kotlin-android-training-work-manager)
+
+<br>
+
+### Lesson 10: Designing for everyone
+> #### GDGFinderStyles -- [Kotlin Android Fundamentals: 10.1 Styles and themes](https://developer.android.com/codelabs/kotlin-android-training-styles-and-themes#0)
+
+> #### GDGFinderMaterial -- [Kotlin Android Fundamentals: 10.2 Material Design, dimens, and colors](https://developer.android.com/codelabs/kotlin-android-training-material-design-dimens-colors)
 
 > #### GDGFinderFinal -- [Kotlin Android Fundamentals: 10.3 Design for everyone](https://developer.android.com/codelabs/kotlin-android-training-design-for-everyone#0)
-
-> #### GDGFinderMaterial -- [Kotlin Android Fundamentals: Material Design, dimens, and colors](https://developer.android.com/codelabs/kotlin-android-training-material-design-dimens-colors)
-
-> #### GDGFinderStyles -- [Kotlin Android Fundamentals: Styles and themes](https://developer.android.com/codelabs/kotlin-android-training-styles-and-themes#0)
 
 <br>
 
