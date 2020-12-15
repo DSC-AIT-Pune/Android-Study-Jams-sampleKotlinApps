@@ -3,93 +3,7 @@ Android Study Jams Sample Apps For Practice
 
 This repository contains the source code for the sample apps in Kotlin , published by the Google Developer Training Team. These apps are also built in codelabs.
 See [Android Training](https://developer.android.com/courses).
-
-Codelabs for each sample app
-------------
-
 <br>
-
-#### DiceRoller -- [Android Kotlin Fundamentals: Create an interactive Dice Roller app](https://developers.google.com/codelabs/kotlin-android-training-app-anatomy)
-
-#### DiceRollerFinal -- [Android Kotlin Fundamentals: 01.2 Basic app anatomy](https://developer.android.com/codelabs/basic-android-kotlin-training-create-dice-roller-app-with-button)
-
-#### DiceRollerFinal-challenge -- [Android Kotlin Fundamentals: 01.3 Image resources and compatibility](https://developer.android.com/codelabs/kotlin-android-training-images-compat)
-
-<br>
-
-#### AboutMe -->   [Android Kotlin Fundamentals: LinearLayout using the Layout Editor](https://developer.android.com/codelabs/kotlin-android-training-linear-layout#0)
-
-#### ColorMyViews --> [Android Kotlin Fundamentals:02.3 ConstraintLayout using the Layout Editor](https://developer.android.com/codelabs/kotlin-android-training-constraint-layout#0)
-
-#### AboutMeDataBinding --> [Android Kotlin Fundamentals 02.4: Data binding basics](https://developer.android.com/codelabs/kotlin-android-training-data-binding-basics#0)
-
-#### AboutMeInteractive --> [Android Kotlin Fundamentals: Add user interactivity](https://developer.android.com/codelabs/kotlin-android-training-interactivity)
-
-<br>
-
-#### AndroidTriviaFragment --> [Android Kotlin Fundamentals: 03.1 Create a fragment](https://developer.android.com/codelabs/kotlin-android-training-create-and-add-fragment#0)
-
-#### AndroidTriviaNavigation --> [Android Kotlin Fundamentals: 03.2 Define navigation paths](https://developer.android.com/codelabs/kotlin-android-training-add-navigation)
-
-#### AndroidTrivia --> [Android Kotlin Fundamentals: 03.3 Start an external Activity](https://developer.android.com/codelabs/kotlin-android-training-start-external-activity#0)
-
-<br>
-
-#### DessertClickerFinal --> [Android Kotlin Fundamentals: Complex Lifecycle Situations](https://developer.android.com/codelabs/kotlin-android-training-complex-lifecycle#0)
-
-#### DessertClickerLogs --> [Android Kotlin Fundamentals: Lifecycles and logging](https://developer.android.com/codelabs/kotlin-android-training-lifecycles-logging#0)
-
-<br>
-
-#### DevBytesRepository --> [Android Kotlin Fundamentals: Repository](https://developer.android.com/codelabs/kotlin-android-training-repository#0)
-
-#### DevBytesWorkManager --> [Android Kotlin Fundamentals: WorkManager](https://developer.android.com/codelabs/kotlin-android-training-work-manager)
-
-<br>
-
-#### GDGFinderFinal --> [Kotlin Android Fundamentals: 10.3 Design for everyone](https://developer.android.com/codelabs/kotlin-android-training-design-for-everyone#0)
-
-#### GDGFinderMaterial --> [Kotlin Android Fundamentals: Material Design, dimens, and colors](https://developer.android.com/codelabs/kotlin-android-training-material-design-dimens-colors)
-
-#### GDGFinderStyles --> [Kotlin Android Fundamentals: Styles and themes](https://developer.android.com/codelabs/kotlin-android-training-styles-and-themes#0)
-
-#### GuessTheWordDataBinding --> [Android Kotlin Fundamentals: Data binding with ViewModel and LiveData](https://developer.android.com/codelabs/kotlin-android-training-live-data-data-binding#0)
-
-#### GuessTheWordLiveData --> [Android Kotlin Fundamentals: LiveData and LiveData observers](https://developer.android.com/codelabs/kotlin-android-training-live-data)
-
-#### GuessTheWordLiveData --> [Android Kotlin Fundamentals: ViewModel](https://developer.android.com/codelabs/kotlin-android-training-view-model#0)
-
-<br>
-
-#### MarsRealEstateFinal --> [Android Kotlin Fundamentals: Filtering and detail views with internet data](https://developer.android.com/codelabs/kotlin-android-training-internet-filtering)
-
-#### MarsRealEstateGrid --> [Android Kotlin Fundamentals: Filtering and detail views with internet data](https://developer.android.com/codelabs/kotlin-android-training-internet-filtering#0)
-
-#### MarsRealEstateNetwork --> [Android Kotlin Fundamentals: Loading and displaying images from the internet](https://developer.android.com/codelabs/kotlin-android-training-internet-images)
-
-<br>
-
-#### RecyclerViewClickHandler --> [Android Kotlin Fundamentals: Interacting with RecyclerView items](https://developer.android.com/codelabs/kotlin-android-training-interacting-with-items#0)
-
-#### RecyclerViewDiffUtilDataBinding--> [Android Kotlin Fundamentals: DiffUtil and data binding with RecyclerView](https://developer.android.com/codelabs/kotlin-android-training-diffutil-databinding#0)
-
-#### RecyclerViewFundamentals --> [Android Kotlin Fundamentals: RecyclerView fundamentals](https://developer.android.com/codelabs/kotlin-android-training-recyclerview-fundamentals#0)
-
-#### RecyclerViewGridLayout --> [Android Kotlin Fundamentals: GridLayout with RecyclerView](https://developer.android.com/codelabs/kotlin-android-training-grid-layout#0)
-
-#### RecyclerViewHeaders --> [Android Kotlin Fundamentals: Headers in RecyclerView](https://developer.android.com/codelabs/kotlin-android-training-headers#0)
-
-<br>
-
-
-
-#### TrackMySleepQualityCoroutines --> [Android Kotlin Fundamentals: 6.2 Coroutines and Room](https://developer.android.com/codelabs/kotlin-android-training-coroutines-and-room?hl=ru#0)
-
-#### TrackMySleepQualityFinal --> [Android Kotlin Fundamentals: Use LiveData to control button states](https://developer.android.com/codelabs/kotlin-android-training-quality-and-states?hl=de#0)
-
-#### TrackMySleepQualityRoomAndTesting --> [Android Kotlin Fundamentals: Create a Room Database](https://developer.android.com/codelabs/kotlin-android-training-room-database#0)
-
-
 Introduction
 ------------
 
@@ -105,6 +19,7 @@ Documentation
 - Learn Kotlin By Example
 - Kotlin Vocabulary series
 - Subscribe to the Android Developer Newsletter
+<br>
 
 
 Pre-requisites
@@ -118,11 +33,13 @@ Specifically, to get started you need:
 - Familiarity with the general software development process for object-oriented
 applications using an IDE (Integrated Development Environment).
 - Familiarity with the Kotlin programming language.
+<br>
 
 Android Studio Version
 ----------------------
  
 [Android Studio download page](https://developer.android.com/studio) for details.  
+<br>
 
 
 Getting Started
@@ -135,11 +52,11 @@ through this process.)
 2. Open the sample into Android Studio.
 3. Build and run the sample. You may need to update gradle and library versions. 
 Follow the guidance provided by Android Studio. 
+<br>
 
 
 How to run the app
 ---------------
-<br>
 <br>
 
 #### 1. Click on green clone button to download the whole project.
@@ -293,6 +210,7 @@ Codelabs for each sample app
 
 #### TrackMySleepQualityRoomAndTesting --> [Android Kotlin Fundamentals: Create a Room Database](https://developer.android.com/codelabs/kotlin-android-training-room-database#0)
 
+<br>
 
 License
 -------
