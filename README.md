@@ -174,11 +174,6 @@ Codelabs for each sample app
 
 <br>
 
-> #### GDGFinderFinal -- [Kotlin Android Fundamentals: 10.3 Design for everyone](https://developer.android.com/codelabs/kotlin-android-training-design-for-everyone#0)
-
-> #### GDGFinderMaterial -- [Kotlin Android Fundamentals: Material Design, dimens, and colors](https://developer.android.com/codelabs/kotlin-android-training-material-design-dimens-colors)
-
-> #### GDGFinderStyles -- [Kotlin Android Fundamentals: Styles and themes](https://developer.android.com/codelabs/kotlin-android-training-styles-and-themes#0)
 
 > #### GuessTheWordDataBinding -- [Android Kotlin Fundamentals: Data binding with ViewModel and LiveData](https://developer.android.com/codelabs/kotlin-android-training-live-data-data-binding#0)
 
@@ -215,6 +210,14 @@ Codelabs for each sample app
 > #### TrackMySleepQualityFinal -- [Android Kotlin Fundamentals: Use LiveData to control button states](https://developer.android.com/codelabs/kotlin-android-training-quality-and-states?hl=de#0)
 
 > #### TrackMySleepQualityRoomAndTesting -- [Android Kotlin Fundamentals: Create a Room Database](https://developer.android.com/codelabs/kotlin-android-training-room-database#0)
+
+<br>
+
+> #### GDGFinderFinal -- [Kotlin Android Fundamentals: 10.3 Design for everyone](https://developer.android.com/codelabs/kotlin-android-training-design-for-everyone#0)
+
+> #### GDGFinderMaterial -- [Kotlin Android Fundamentals: Material Design, dimens, and colors](https://developer.android.com/codelabs/kotlin-android-training-material-design-dimens-colors)
+
+> #### GDGFinderStyles -- [Kotlin Android Fundamentals: Styles and themes](https://developer.android.com/codelabs/kotlin-android-training-styles-and-themes#0)
 
 <br>
 
